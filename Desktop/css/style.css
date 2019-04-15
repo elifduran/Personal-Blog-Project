@@ -1,0 +1,102 @@
+.main-container{
+	padding:0px 20px;
+	font-family:bold;
+	text-align:center;
+}
+h2{
+	margin:50px;
+}
+p{
+	margin:10px;
+}	
+.nav-item{
+	font-size:30px;
+	
+}
+.navbar-brand{ 
+	font-size:50px;
+	
+}
+.row{
+text-align:center;
+
+}
+
+.contactme{
+	text-decoration:underline;
+}	
+.signin{
+	background:#0000FF;
+
+    border: none;
+
+    color: white;
+
+    padding: 15px 20px;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    font-size: 16px;
+
+    margin:20px 10px;
+}
+.img-fluid{
+	margin:30px 30px;
+}
+.img-thumbnail{
+	width:200px;
+	height:200px;
+	margin:50px;
+}
+
+audio{
+	width:100%;
+	margin-top:100px;
+	margin-right:20px;
+}
+h1{
+	margin:20px;
+
+}
+.container{
+	margin:50px;
+}
+
+.or{
+	font-weight: bold;
+}
+.submit{
+	background:#0000FF;
+
+    border: none;
+
+    color: white;
+
+    padding: 15px 20px;
+
+    text-align: center;
+
+    text-decoration: none;
+
+    font-size: 16px;
+
+    margin:20px 10px;
+
+}
+.container2{
+	padding:20px;
+	margin:20px;
+	text-align:center;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
